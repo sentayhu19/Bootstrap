@@ -1,0 +1,7 @@
+#bg-image-1 {
+  background-image: url("./assets/images/bg-shape.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh;
+  width: 100%;
+}
